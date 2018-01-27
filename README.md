@@ -5,6 +5,8 @@ build a project.
 
 This is alpha-quality software (at best). Beware of bugs and oddities.
 
+The ninja back-end is the only supported Meson back-end for now.
+
 
 ## Usage
 
