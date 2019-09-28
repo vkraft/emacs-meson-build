@@ -1,5 +1,7 @@
 # emacs-meson-build
 
+**This is a dead project. Use [Projectile](https://github.com/bbatsov/projectile) instead for building Meson projects.**
+
 A very simple GNU Emacs package for using [Meson](http://mesonbuild.com/) to
 build a project.
 
